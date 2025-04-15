@@ -1,3 +1,9 @@
+import dice
+
+dice1=dice.Dice()
+dice1.roll()
+
+
 i=1
 while i <= 3:
     commad = input(">")
